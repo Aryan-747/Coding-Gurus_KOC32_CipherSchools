@@ -7,5 +7,5 @@ Project No 12
 
 Project Prepared By:
                1. Aryan Salaria (Roll No: RKOC32A35)
-               2. Vishesh Madan (Roll No: RKOC32A36)
+               2. Vishesh Kumar (Roll No: RKOC32A36)
                3. Babalpreet Singh (Roll No: RKOC32B37)
