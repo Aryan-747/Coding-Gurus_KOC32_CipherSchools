@@ -24,7 +24,3 @@ for i in range(len(num)):
                 print(f"{num[i]} is a Valid Fibonacci Number\n")
             else:
                 print(f"{num[i]} is an Invalid Fibonacci Number\n")
-
-
-            
-        
